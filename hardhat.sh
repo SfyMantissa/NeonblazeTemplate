@@ -1,6 +1,6 @@
 #!/bin/bash
 
-TEMPLATE_PATH='/home/sfy/repos/HardhatTemplate'
+TEMPLATE_PATH='/home/sfy/repos/NeonblazeTemplate'
 
 git init 2>/dev/null
 
